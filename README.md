@@ -2,6 +2,18 @@
 <p align="center">
   <img src="images/home.png" width="500"/>
 </p>
+<p align="center">
+  <img src="images/dky.png" width="500"/>
+</p>
+<p align="center">
+  <img src="images/dnhap.png" width="500"/>
+</p>
+<p align="center">
+  <img src="images/cart.png" width="500"/>
+</p>
+<p align="center">
+  <img src="images/thanhtoan.png" width="500"/>
+</p>
 ## 🚀 Các chức năng chính
 
 - 🔐 Đăng nhập  
